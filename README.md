@@ -67,9 +67,5 @@ Messagerie chiffrée de bout en bout, projet en binôme. Signal Protocol (X3DH, 
 **[Infrastructures_reseaux_securisees](https://github.com/Yorgalus/Infrastructures_reseaux_securisees)**
 Mise en place d'une infrastructure réseau sécurisée : WAF, bastion, supervision.
 
-### Me trouver ailleurs
 
-<p>
-  <a href="https://www.root-me.org"><img src="https://img.shields.io/badge/Root--Me-à%20compléter-2C3E50?style=flat-square" alt="Root-Me"/></a>
-  <a href="https://www.hackthebox.com"><img src="https://img.shields.io/badge/Hack%20The%20Box-à%20compléter-1F6FB2?style=flat-square&logo=hackthebox&logoColor=white" alt="HTB"/></a>
-</p>
+
