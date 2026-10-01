@@ -91,3 +91,8 @@ Mes fiches sur les grandes familles de vulnérabilités et les outils.
 **[docker-cicd-lab](https://github.com/Yorgalus/docker-cicd-lab)**
 Conteneurisation Docker et pipelines GitLab CI/CD.
 
+### Me trouver ailleurs
+
+<p>
+  <a href="[https://www.root-me.org](https://www.root-me.org/__Lever__?lang=fr#9b6c276605fd48c96f5aff4164c59d10)"><img src="https://img.shields.io/badge/Root--Me-profil-2C3E50?style=flat-square"/></a>
+</p>
