@@ -21,17 +21,22 @@ $ cat about.txt
 > home lab pour tester sans rien casser chez les autres
 ```
 
-### Stack & outils
+### Là où je suis à l'aise
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,php,docker,proxmox,git&theme=dark" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker,proxmox&theme=dark" alt="systeme"/>
 </p>
 <p>
+  <strong>Web</strong>&nbsp;
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLmap-D32F2F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+</p>
+<p>
+  <strong>Réseau</strong>&nbsp;
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
 </p>
 
 ### Ce que je sais faire
@@ -40,35 +45,34 @@ $ cat about.txt
 <tr>
 <td valign="top">
 
-**Offensif**
-- Pentest web (SQLi, XSS, CSRF, SSRF, LFI, IDOR)
-- Pentest réseau, énumération
-- Pivoting, escalade de privilèges
+**Pentest web** (mon terrain)
+- Injection SQL, XSS, CSRF, SSRF
+- LFI/RFI, IDOR, JWT, API
+- OWASP Top 10
 
-**Défensif** (comprendre les deux côtés)
-- WAF, reverse proxy, bastion, SIEM
+**Pentest réseau**
+- Énumération, scan, pivoting
+- Escalade de privilèges
 
 </td>
 <td valign="top">
 
-**Systèmes & Réseaux**
-- Linux (Debian, Kali), Windows
+**Linux & Infra** (monté de A à Z)
+- Admin Linux (Debian, Kali)
+- WAF, reverse proxy, bastion, SIEM
 - Docker, Proxmox, virtualisation
-- TCP/IP, VPN, pare-feu
 
 **Scripting**
-- Python, Bash, PowerShell, PHP, SQL
+- Python, Bash, PowerShell
 
 </td>
 </tr>
 </table>
 
-### Statistiques
+### 
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yorgalus&show_icons=true&hide_border=true&title_color=C0392B&icon_color=1F6FB2&text_color=444&bg_color=FCFCFA" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yorgalus&layout=compact&hide_border=true&title_color=C0392B&text_color=444&bg_color=FCFCFA" alt="langs"/>
-</p>
+> *Il faut être toujours ivre. Tout est là. De vin, de poésie ou de vertu, à votre guise. Mais enivrez-vous.*
+> — Charles Baudelaire, *Enivrez-vous*
 
 ### Mes projets
 
@@ -82,7 +86,7 @@ Messagerie chiffrée de bout en bout, projet en binôme. Signal Protocol (X3DH, 
 Home lab de sécurité Zero Trust : WAF, SIEM, bastion, supervision, avec schémas d'architecture.
 
 **[Pentest_Cheat-sheets](https://github.com/Yorgalus/Pentest_Cheat-sheets)**
-Mes fiches sur les grandes familles de vulnérabilités web et système.
+Mes fiches sur les grandes familles de vulnérabilités et les outils.
 
 **[docker-cicd-lab](https://github.com/Yorgalus/docker-cicd-lab)**
 Conteneurisation Docker et pipelines GitLab CI/CD.
