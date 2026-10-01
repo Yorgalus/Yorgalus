@@ -21,6 +21,19 @@ $ cat about.txt
 > home lab pour tester sans rien casser chez les autres
 ```
 
+### Stack & outils
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,php,docker,proxmox,git&theme=dark" alt="stack"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLmap-D32F2F?style=flat-square"/>
+</p>
+
 ### Ce que je sais faire
 
 <table>
@@ -32,40 +45,51 @@ $ cat about.txt
 - Pentest réseau, énumération
 - Pivoting, escalade de privilèges
 
-**Outils**
-- Burp Suite, Nmap, Metasploit
-- SQLmap, Wireshark, Hydra
-- Gobuster, Nikto, Hashcat
+**Défensif** (comprendre les deux côtés)
+- WAF, reverse proxy, bastion, SIEM
 
 </td>
 <td valign="top">
 
 **Systèmes & Réseaux**
 - Linux (Debian, Kali), Windows
-- Docker, Proxmox
+- Docker, Proxmox, virtualisation
 - TCP/IP, VPN, pare-feu
 
 **Scripting**
-- Python, Bash, PowerShell
-- PHP, SQL
-
-**Défensif** (pour comprendre les deux côtés)
-- WAF, reverse proxy, bastion, SIEM
+- Python, Bash, PowerShell, PHP, SQL
 
 </td>
 </tr>
 </table>
 
+### Statistiques
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yorgalus&show_icons=true&hide_border=true&title_color=C0392B&icon_color=1F6FB2&text_color=444&bg_color=FCFCFA" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yorgalus&layout=compact&hide_border=true&title_color=C0392B&text_color=444&bg_color=FCFCFA" alt="langs"/>
+</p>
+
 ### Mes projets
 
 **[login-test](https://github.com/Yorgalus/login-test)** · `Python`
-Outil d'audit de vulnérabilités web que j'ai développé. Teste SQLi, XSS, CSRF, injection de commande, LFI/RFI, SSRF, analyse les en-têtes et sort un rapport avec recommandations.
+Outil d'audit de vulnérabilités web que j'ai développé. Teste SQLi, XSS, SSTI, injection de commande, LFI/RFI, analyse les en-têtes et sort un rapport HTML.
 
 **[Assecured](https://github.com/Yorgalus/Assecured)** · `Go` · `React`
-Messagerie chiffrée de bout en bout, projet en binôme. Signal Protocol (X3DH, Double Ratchet), authentification par clé USB physique, dérivation Argon2id. J'ai travaillé sur l'architecture de sécurité.
+Messagerie chiffrée de bout en bout, projet en binôme. Signal Protocol (X3DH, Double Ratchet), authentification par clé USB physique, Argon2id. J'ai travaillé sur l'architecture de sécurité.
 
-**[Infrastructures_reseaux_securisees](https://github.com/Yorgalus/Infrastructures_reseaux_securisees)**
-Mise en place d'une infrastructure réseau sécurisée : WAF, bastion, supervision.
+**[blue-team-homelab](https://github.com/Yorgalus/blue-team-homelab)**
+Home lab de sécurité Zero Trust : WAF, SIEM, bastion, supervision, avec schémas d'architecture.
 
+**[Pentest_Cheat-sheets](https://github.com/Yorgalus/Pentest_Cheat-sheets)**
+Mes fiches sur les grandes familles de vulnérabilités web et système.
 
+**[docker-cicd-lab](https://github.com/Yorgalus/docker-cicd-lab)**
+Conteneurisation Docker et pipelines GitLab CI/CD.
 
+### Me trouver ailleurs
+
+<p>
+  <a href="https://www.root-me.org"><img src="https://img.shields.io/badge/Root--Me-à%20compléter-2C3E50?style=flat-square"/></a>
+  <a href="https://www.hackthebox.com"><img src="https://img.shields.io/badge/Hack%20The%20Box-à%20compléter-1F6FB2?style=flat-square&logo=hackthebox&logoColor=white"/></a>
+</p>
