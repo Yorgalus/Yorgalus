@@ -45,7 +45,7 @@ $ cat about.txt
 <tr>
 <td valign="top">
 
-**Pentest web** (mon terrain)
+**Pentest web** 
 - Injection SQL, XSS, CSRF, SSRF
 - LFI/RFI, IDOR, JWT, API
 - OWASP Top 10
